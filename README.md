@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Crypted Cookie aka Jac
 - 👀 I’m interested in network and cyber security...
-- 🌱 I'm a Gamer and I like editing pictures/learning lots of new things..
+- 🌱 I'm a Software Engineering Student and I like editing pictures/learning lots of new things..
 - 📫 How to reach me +
 
          Github
