@@ -8,6 +8,9 @@
          
          Twitter
          https://twitter.com/BlazegreenX
+         
+         Email
+         cookie.crypted@gmail.com
 
 <!---
 crypt3d-c00kie/crypt3d-c00kie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
