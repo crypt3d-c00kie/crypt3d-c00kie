@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Crypted Cookie aka Jac
-- 👀 I’m interested in cybersecurity and application development.
+- 👀 I’m interested in cybersecurity and software-application development.
 - 🌱 I'm a Computer Science Engineering Student and I like editing pictures/learning lots of new things..
 - 📫 How to reach me +
 
