@@ -17,11 +17,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=dark&show_icons=true&locale=en" alt="crypt3d-c00kie" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crypt3d-c00kie&label=Profile%20views&color=0e75b6&style=flat" alt="crypt3d-c00kie" /> </p>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!---  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypt3d-c00kie&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
-<!---
+[!(https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 crypt3d-c00kie/crypt3d-c00kie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
