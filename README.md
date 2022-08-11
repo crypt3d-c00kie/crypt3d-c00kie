@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Crypted Cookie aka Jac
+- 👋 Hi, I’m Crypted Cookie
 - 👀 I’m interested in cybersecurity and software-application development.
 - 🌱 I'm a Computer Science Engineering Student and I like learning lots of new things
     such as graphic design and web development..
