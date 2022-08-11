@@ -8,7 +8,7 @@
          Mail       cookie.crypted@gmail.com
          
     
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypt3d-c00kie&theme=dark&show_icons=true&locale=en&layout=compact" alt="crypt3d-c00kie" /></p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypt3d-c00kie&theme=dark&show_icons=true&locale=en&layout=compact" alt="crypt3d-c00kie" />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&show_icons=true&theme=dark)
