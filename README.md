@@ -4,8 +4,8 @@
     such as graphic design and web development..
 - 📫 How to reach me +
 
-         Github
-         https://github.com/crypt3d-c00kie
+         Github     https://github.com/crypt3d-c00kie
+         Mail       cookie.crypted@gmail.com
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypt3d-c00kie&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
