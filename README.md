@@ -7,7 +7,7 @@
          Github
          https://github.com/crypt3d-c00kie
   
-  
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypt3d-c00kie&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!---
 crypt3d-c00kie/crypt3d-c00kie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
