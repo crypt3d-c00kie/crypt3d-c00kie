@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crypt3d-c00kie" alt="crypt3d-c00kie" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -19,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypt3d-c00kie&show_icons=true&locale=en&layout=compact" alt="crypt3d-c00kie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&show_icons=true&locale=en" alt="crypt3d-c00kie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=dark&show_icons=true&locale=en" alt="crypt3d-c00kie" /></p>
  <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crypt3d-c00kie&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 <!---
