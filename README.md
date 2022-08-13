@@ -1,8 +1,24 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt3d-c00kie&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+# Github Activity📊:
 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt3d-c00kie&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=crypt3d-c00kie&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=crypt3d-c00kie&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+  </td>
+  </tr>
+</table>
 
-<!--
-crypt3d-c00kie/crypt3d-c00kie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-You can click the Preview link to take a look at your changes.
---->
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crypt3d-c00kie&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=crypt3d-c00kie&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
