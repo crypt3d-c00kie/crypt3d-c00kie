@@ -1,5 +1,3 @@
-# Github Activity📊:
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=crypt3d-c00kie&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
@@ -10,7 +8,6 @@
   </tr>
 </table>
 
-# Productivity Stats📈:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crypt3d-c00kie&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
